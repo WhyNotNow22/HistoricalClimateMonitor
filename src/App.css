@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.MonitorContaienr {
+  display: grid;
+  margin-top: 15px;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 10px;
+}
